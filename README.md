@@ -19,6 +19,11 @@ Similar Stuff
   - `repr()` from Narwhal’s util module
   - `console._source_of()` from [Console.js](http://github.com/NV/console.js/)
 
+BOWER
+---
+
+	bower install jsdump
+
 [NPM](http://search.npmjs.org/#/jsDump)
 ---
 
